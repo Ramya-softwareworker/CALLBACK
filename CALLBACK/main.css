@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    font-size: 900;
+    margin: 300px;
+}
+
+body{
+    background-color:rgba(150, 10, 108, 0.76) ;
+    color: rgb(187, 231, 28);
+    
+}
